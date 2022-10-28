@@ -15,11 +15,11 @@ This Assignment was to add a username.md file and to update [github link](https:
 
 # WEEK 4
 
-This assignment was a car advertisement card made of three columns.
+This assignment was a car advertisement card made of three columns. The assignment was submitted on the [replit](https://replit.com/@Bandastic/CSS-FLEXGRID-design#index.html).
 
 
 
 # WEEK 3
-This is a two part assignment, made of a portfolio page website and a registration site.
+This is a two part assignment, made of a portfolio page website and a registration site. The assignment was submitted on the [replit- Registration form]([https://replit.com/@Bandastic/CSS-FLEXGRID-design#index.html](https://replit.com/@Bandastic/Project2#Registration.html) while [replit- Portfolio ]([https://replit.com/@Bandastic/CSS-FLEXGRID-design#index.html](https://replit.com/@Bandastic/Project2#Registration.html)
 
 
