@@ -20,6 +20,6 @@ This assignment was a car advertisement card made of three columns. The assignme
 
 
 # WEEK 3
-This is a two part assignment, made of a portfolio page website and a registration site. The assignment was submitted on the [replit- Registration form](https://replit.com/@Bandastic/Project2#Registration.html) while [replit- Portfolio ](https://replit.com/@Bandastic/My-Portfolio#index.html ))
+This is a two part assignment, made of a portfolio page website and a registration site. The assignment was submitted on the [replit- Registration form](https://replit.com/@Bandastic/Project2#Registration.html) and [replit- Portfolio ](https://replit.com/@Bandastic/My-Portfolio#index.html ))
 
 
