@@ -21,11 +21,11 @@ It also requested up update [github link](https://drive.google.com/file/d/1UqTbl
 
 # WEEK 4
 
-This assignment was a car advertisement card made of three columns.
+This assignment was a car advertisement card made of three columns. The assignment was submitted on the [replit](https://replit.com/@Bandastic/CSS-FLEXGRID-design#index.html).
 
 
 
 # WEEK 3
-This is a two part assignment, made of a portfolio page website and a registration site.
+This is a two part assignment, made of a portfolio page website and a registration site. The assignment was submitted on the [replit- Registration form](https://replit.com/@Bandastic/Project2#Registration.html) and [replit- Portfolio ](https://replit.com/@Bandastic/My-Portfolio#index.html ))
 
 
