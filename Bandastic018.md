@@ -8,8 +8,14 @@ The Repository Assignment has three branches where each branch contain the assig
 
 # WEEK 5
 
-This Assignment was to add a username.md file and to update [github link](https://drive.google.com/file/d/1UqTblndQlM2XSGdnl5BCDI-xSuU-6xvM/view?usp=share_link) on the profile.
+This Assignment was to have a github repository with three branches;
+[Week 3](www.github.com/Bandastic018/week3) - A branch with week 3 Assignment.
+[Week 4](www.github.com/Bandastic018/week4) - A branch with week 4 Assignment.
+[Week 5](www.github.com/Bandastic018/week5) - A branch with week 5 Assignment.
 
+With readme.md file in the the form username.md.
+
+It also requested up update [github link](https://drive.google.com/file/d/1UqTblndQlM2XSGdnl5BCDI-xSuU-6xvM/view?usp=share_link) on our LMS profile.
 
 
 
