@@ -1,7 +1,7 @@
 
 # Assignment 
 
-## This is an Assignment Repository by myself [Ibrahim Mohammed](www.github.com/Bandastic018) as part of my training with I4G X Zuri training 2022 Cohort II.
+## This is an Assignment Repository by myself Ibrahim Mohammed as part of my training with I4G X Zuri training 2022 Cohort II.
 
 The Repository Assignment has three branches where each branch contain the assignment of the said week.
 
@@ -9,9 +9,9 @@ The Repository Assignment has three branches where each branch contain the assig
 # WEEK 5
 
 This Assignment was to have a github repository with three branches;
-[Week 3](www.github.com/Bandastic018/tree/week3) - A branch with week 3 Assignment.
-[Week 4](www.github.com/Bandastic018/tree/week4) - A branch with week 4 Assignment.
-[Week 5](www.github.com/Bandastic018/tree/week5) - A branch with week 5 Assignment.
+Week 3 - A branch with week 3 Assignment.
+Week 4 - A branch with week 4 Assignment.
+Week 5 - A branch with week 5 Assignment.
 
 With readme.md file in the the form username.md.
 
